@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace HashTable
-{
+{   
     public class MyMapNode<K, V>
     {
         private readonly int size;
@@ -53,5 +53,4 @@ namespace HashTable
             }
         }
     }
-
 }
